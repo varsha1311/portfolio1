@@ -1,0 +1,112 @@
+
+img
+{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+
+h1{
+  font-family: 'Galada';
+  font-size: 50px;
+  color: #ff3b3f;
+}
+
+h2{
+  font-family: 'Fondamento';
+  font-size: 35px;
+  color: #ff3b3f;
+  margin: 0;
+  border: 0;
+}
+
+h3{
+  font-size: 30px;
+}
+
+
+.profile{
+  text-align: center;
+  background-color: #ddf3f5;
+  background-image: url("https://i.pinimg.com/originals/12/e9/0d/12e90d9b992c75d6cfefa2e05dc70f8a.jpg");
+  height: 80vh;
+  min-height: 500px;
+  padding-top: 50vh;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+
+
+ol{
+  text-align: center;
+  list-style-position: inside;
+  list-style-type: upper-roman;
+}
+
+.skills{
+  text-align: center;
+  background-color: #f1fcfc ;
+  padding: 50px;
+}
+
+
+.center{
+  margin-left: auto;
+  margin-right: auto;
+ font-family: 'Sahitya', serif;
+ font-size: 18px;
+}
+
+
+.education{
+  text-align: center;
+  background-color: #e0fbfc;
+  padding: 50px;
+}
+
+.experience{
+  text-align: center;
+  background-color: #f1fcfc;
+  padding: 50px;
+  font-family: 'Sahitya', serif;
+  font-size: 18px;
+
+}
+
+.contact{
+  padding: 50px;
+  height: 80vh;
+  text-align: center;
+  background-color: #e0fbfc;
+  font-family: 'Sahitya', serif;
+
+}
+
+footer{
+  text-align: center;
+  padding: 30px;
+  background-color: black;
+  font-size: 20px;
+}
+
+.link{
+  color:white;
+}
+
+.buttonlink{
+  background-color: #10375c;
+  color: white;
+  display: inline-block;
+  padding: 14px 25px;
+  text-decoration: none;
+}
+
+
+
+
+
+mark{
+  background-color: #c4fb6d;
+  color: black;
+}
